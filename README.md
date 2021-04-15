@@ -1,2 +1,2 @@
 # Edtech
-EdTech
+The dataset in this study is used to classify students based on their performance. data is collected from LMS(Learning management system), consisting of 480 students and 16 features, . The features are classified into three major categories: (1) Demographic features such as gender and nationality. (2) Academic background features such as educational stage, grade Level and section. (3) Behavioral features such as raised hand on class, opening resources, answering survey by parents, and school satisfaction.
